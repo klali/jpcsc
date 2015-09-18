@@ -1,5 +1,4 @@
 TOPDIR          = ../..
-TOPDIR          = /Users/andrew/Documents/DevProjects/WebApps/tageventor/jpcsc
 
 include ${TOPDIR}/Config
 
