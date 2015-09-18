@@ -52,7 +52,7 @@ endif
 # suffix of object files
 OBJSUFFIX=.o
 # cc flags
-CCFLAGS += -Wall
+CCFLAGS += -Wall -fPIC
 # cc
 CC = gcc
 # ciompile command
